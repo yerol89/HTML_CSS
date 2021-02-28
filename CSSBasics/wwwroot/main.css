@@ -1,0 +1,18 @@
+﻿
+body {
+}
+
+h3{
+    color:lime;
+    font-family:Constantia;
+}
+
+#mystyle{
+    color:cornsilk;
+    background-color:darkblue;
+}
+
+.myclass{
+    color:yellow;
+    background-color:indigo;
+}

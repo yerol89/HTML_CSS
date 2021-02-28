@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HtmlBasic", "HtmlBasic\HtmlBasic.csproj", "{FADCC709-1344-4035-B35F-C9FC8D07215A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCoffeeShop", "MyCoffeeShop\MyCoffeeShop.csproj", "{4FAD1BB5-6957-446E-8B61-F9485D854CAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCoffeeShop", "MyCoffeeShop\MyCoffeeShop.csproj", "{4FAD1BB5-6957-446E-8B61-F9485D854CAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSSBasics", "CSSBasics\CSSBasics.csproj", "{74868FAC-CF42-4FBC-9D95-C76FDD375BC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{4FAD1BB5-6957-446E-8B61-F9485D854CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FAD1BB5-6957-446E-8B61-F9485D854CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FAD1BB5-6957-446E-8B61-F9485D854CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74868FAC-CF42-4FBC-9D95-C76FDD375BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74868FAC-CF42-4FBC-9D95-C76FDD375BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74868FAC-CF42-4FBC-9D95-C76FDD375BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74868FAC-CF42-4FBC-9D95-C76FDD375BC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
